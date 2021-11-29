@@ -12,7 +12,7 @@
 
 2.2. [Формат IPv4/IPv6 пакетов, IP-фрагментация, MTU, TOS и TTL.]()
 
-2.3. [Подсети и маски IPv4. Принципы проектирования и использования.]()
+2.3. [Подсети и маски IPv4. Принципы проектирования и использования.](https://github.com/netology-code/rutsw-homeworks/blob/main/2-03.md)
 
 2.4. [Маршрутизация.Шлюз по умолчанию. Выбор лучшего маршрута.](https://github.com/netology-code/rutsw-homeworks/blob/main/2-04.md)
 
