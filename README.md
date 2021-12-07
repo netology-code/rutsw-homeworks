@@ -10,7 +10,7 @@
 
 2.1. [Принципы коммутации. VLAN](https://github.com/netology-code/rutsw-homeworks/blob/main/2-01.md)
 
-2.2. [Формат IPv4/IPv6 пакетов, IP-фрагментация, MTU, TOS и TTL.](https://github.com/netology-code/rutsw-homeworks/blob/main/2-02.md)
+2.2. [IPv4/6 заголовки. Формат заголовков и важные служебные поля в них](https://github.com/netology-code/rutsw-homeworks/blob/main/2-02.md)
 
 2.3. [Подсети и маски IPv4. Принципы проектирования и использования.](https://github.com/netology-code/rutsw-homeworks/blob/main/2-03.md)
 
