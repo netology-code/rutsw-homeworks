@@ -20,6 +20,6 @@
 
 2.6. [Путь пакета в коммутируемой и маршрутизируемой среде. ARP, DHCP, DNS.](https://github.com/netology-code/rutsw-homeworks/blob/main/2-06.md)
 
-2.7. [Настройка коммутации и маршрутизации.]()
+2.7. [Настройка коммутации и маршрутизации.](https://github.com/netology-code/rutsw-homeworks/blob/main/2-07.md)
 
 2.8. [Инструменты и подходы к поиску и устранению неисправностей в Ethernet сетях. CDP/LLDP.](https://github.com/netology-code/rutsw-homeworks/blob/main/2-08.md)
