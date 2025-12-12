@@ -8,18 +8,18 @@
 
 Любые вопросы по решению задач задавайте в канале группы.
 
-2.1. [Принципы коммутации. VLAN](https://github.com/netology-code/rutsw-homeworks/blob/main/2-01.md)
+2.1. [Принципы коммутации. VLAN](2-01.md)
 
-2.2. [IPv4/6 заголовки. Формат заголовков и важные служебные поля в них](https://github.com/netology-code/rutsw-homeworks/blob/main/2-02.md)
+2.2. [IPv4/6 заголовки. Формат заголовков и важные служебные поля в них](2-02.md)
 
-2.3. [Подсети и маски IPv4. Принципы проектирования и использования.](https://github.com/netology-code/rutsw-homeworks/blob/main/2-03.md)
+2.3. [Подсети и маски IPv4. Принципы проектирования и использования.](2-03.md)
 
-2.4. [Маршрутизация.Шлюз по умолчанию. Выбор лучшего маршрута.](https://github.com/netology-code/rutsw-homeworks/blob/main/2-04.md)
+2.4. [Маршрутизация.Шлюз по умолчанию. Выбор лучшего маршрута.](2-04.md)
 
-2.5. [Основы IPv6. Базовые понятия, сравнение с IPv4, принципы построения подсетей.](https://github.com/netology-code/rutsw-homeworks/blob/main/2-05.md)
+2.5. [Основы IPv6. Базовые понятия, сравнение с IPv4, принципы построения подсетей.](2-05.md)
 
-2.6. [Путь пакета в коммутируемой и маршрутизируемой среде. ARP, DHCP, DNS.](https://github.com/netology-code/rutsw-homeworks/blob/main/2-06.md)
+2.6. [Путь пакета в коммутируемой и маршрутизируемой среде. ARP, DHCP, DNS.](2-06.md)
 
-2.7. [Настройка коммутации и маршрутизации.](https://github.com/netology-code/rutsw-homeworks/blob/main/2-07.md)
+2.7. [Настройка коммутации и маршрутизации.](2-07.md)
 
-2.8. [Инструменты и подходы к поиску и устранению неисправностей в Ethernet сетях. CDP/LLDP.](https://github.com/netology-code/rutsw-homeworks/blob/main/2-08.md)
+2.8. [Инструменты и подходы к поиску и устранению неисправностей в Ethernet сетях. CDP/LLDP.](2-08.md)
